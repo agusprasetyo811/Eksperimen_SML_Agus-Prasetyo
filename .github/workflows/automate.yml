@@ -4,6 +4,7 @@
 on:
   push:
     paths:
+      - 'dataset_kredit_pinjaman.csv'
       - 'preprocessing/automated_Agus_Prasetyo.py'
       - 'preprocessing/final_dataset/**'
       - 'requirements.txt'
