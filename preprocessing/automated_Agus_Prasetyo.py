@@ -533,5 +533,5 @@ if __name__ == "__main__":
     print("🎯 EXACT MATCH AUTOMATED PREPROCESSING")
     print("="*60)
     
-    preprocessor, X_train, X_test, y_train, y_test, df_final = run_exact_automated_preprocessing('../dataset_kredit_pinjaman.csv')
+    preprocessor, X_train, X_test, y_train, y_test, df_final = run_exact_automated_preprocessing('dataset_kredit_pinjaman.csv')
     
